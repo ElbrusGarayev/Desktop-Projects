@@ -1,0 +1,10 @@
+C:\Users\Elbru\source\repos\CarList\CarList\bin\Debug\CarList.exe.config
+C:\Users\Elbru\source\repos\CarList\CarList\bin\Debug\CarList.exe
+C:\Users\Elbru\source\repos\CarList\CarList\bin\Debug\CarList.pdb
+C:\Users\Elbru\source\repos\CarList\CarList\obj\Debug\CarList.csprojAssemblyReference.cache
+C:\Users\Elbru\source\repos\CarList\CarList\obj\Debug\CarList.Properties.Resources.resources
+C:\Users\Elbru\source\repos\CarList\CarList\obj\Debug\CarList.csproj.GenerateResource.cache
+C:\Users\Elbru\source\repos\CarList\CarList\obj\Debug\CarList.csproj.CoreCompileInputs.cache
+C:\Users\Elbru\source\repos\CarList\CarList\obj\Debug\CarList.exe
+C:\Users\Elbru\source\repos\CarList\CarList\obj\Debug\CarList.pdb
+C:\Users\Elbru\source\repos\CarList\CarList\obj\Debug\CarList.carList.resources
