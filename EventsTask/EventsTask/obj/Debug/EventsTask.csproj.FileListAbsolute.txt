@@ -1,0 +1,10 @@
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\bin\Debug\EventsTask.exe.config
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\bin\Debug\EventsTask.exe
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\bin\Debug\EventsTask.pdb
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\obj\Debug\EventsTask.csprojAssemblyReference.cache
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\obj\Debug\EventsTask.Form1.resources
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\obj\Debug\EventsTask.Properties.Resources.resources
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\obj\Debug\EventsTask.csproj.GenerateResource.cache
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\obj\Debug\EventsTask.csproj.CoreCompileInputs.cache
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\obj\Debug\EventsTask.exe
+C:\Users\Elbru\source\repos\EventsTask\EventsTask\obj\Debug\EventsTask.pdb
